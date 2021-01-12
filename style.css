@@ -1,0 +1,80 @@
+body{
+    font-family: 'Imbue', serif;
+    margin: 0;
+    padding: 0;
+
+
+}
+.sentence-color{
+    color: red;
+}
+.colorfull-button{
+    padding: 10px;
+    border-radius:10px;
+    color: white;
+    background-color:orangered;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 10px;
+
+
+}
+.half-width img{
+    width: 100%;
+}
+.first-section{
+    height: 600px;
+  
+   margin-bottom: 100px;
+}
+.second-section{
+    height: 550px;
+   margin-bottom: 100px;
+}
+.third-section{
+    height: 500px;
+    width: 100%;
+    background-color:rgb(248, 237, 237);
+    padding-top: 100px;
+}
+.common{
+    width: 25%;
+    float: left;
+   margin-left: 5%;
+   border: 5px solid white;
+   border-radius: 10%;
+   padding-left: 10px;
+   
+}
+.middle{
+    
+    padding-left: 520px;
+}
+.third-section img{
+    width: 100%;
+}
+.experience{
+    height: 100px;
+    width: 50%;
+    border: 5px solid red;
+    border-radius: 20%; ;
+    margin-left: 300px;
+    background-color: blue;
+    padding-left: 5px;
+    color: white;
+}
+.div2 img{
+    width:30px;
+    height: 30px;
+    padding-right: 30px;
+}
+.div1{
+    padding-left: 520px;
+}
+.div2{
+    padding-left: 520px;
+}
